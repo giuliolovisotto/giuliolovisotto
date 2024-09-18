@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Research Engineer at [DeepL](https://deepl.com), currently working on Large Language Models.
+I am a Research Engineer, currently working on Large Language Models.
 
 Before then, I lead research for representation learning on graphs at the **Huawei Munich Research Center**.
 
