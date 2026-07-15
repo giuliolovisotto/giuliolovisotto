@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently <img src="https://cdn.simpleicons.org/nvidia/76B900" width="28" height="28" alt="NVIDIA"/> working on LLM evals.
+
 You can find a list of my publications on 🎓[Google Scholar](https://scholar.google.com/citations?user=EiuXVMsAAAAJ).
 
 - 📫 How to reach me: [mail](giuliolovisotto[at]gmail.com)
