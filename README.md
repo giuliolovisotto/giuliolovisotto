@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-working on LLM evals.
+Deep Learning Engineer working on LLM evals.
 
 You can find a list of my publications on 🎓[Google Scholar](https://scholar.google.com/citations?user=EiuXVMsAAAAJ).
 
